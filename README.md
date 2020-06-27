@@ -1,5 +1,5 @@
 # work-day-scheduler
-URL: 
+https://alexfuss.github.io/work-day-scheduler/  
 The work day scheduler app is meant to allow a user to input events throughout the day to keep a simple schedule. Events are differentiated by time of day, which is dynamically shown atop the application. Users can also save events which will show in local storage. 
 
 # Criteria:
